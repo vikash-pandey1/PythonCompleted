@@ -1,0 +1,7 @@
+tup = (5,53,63,6)
+li = list(tup)
+li.append(9)
+print(li)
+a = li.index(5,0,5)
+print(a)
+print(len(li))
